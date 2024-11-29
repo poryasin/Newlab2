@@ -207,6 +207,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 😷
-
 varintorn
  
